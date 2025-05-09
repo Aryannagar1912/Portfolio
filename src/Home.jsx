@@ -21,7 +21,7 @@ const Home = () => {
           viewport={{once:false,amount:0.5}}
           transition={{duration:0.8,delay:0.2}}
         >
-            Welcome To My Portfiolio
+            Welcome To My Portfolio
         </motion.h1>
         <motion.p
            className='text-lg md:text-xl text-gray-300'
